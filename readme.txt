@@ -1,9 +1,9 @@
-﻿=== Plugin Name ===
-Contributors: Stergatu Lena <stergatu@cti.gr>
+﻿=== Ls_Gtrans_Widget ===
+Contributors: lenasterg, NTS on cti.gr
 Donate link:
 Tags: google translate, widget
-Requires at least:
-Tested up to:
+Requires at least:3.6
+Tested up to: 4.2.2
 Stable tag: 1.0
 icense:  GNU General Public License 3.0 or newer (GPL)
 License URI: http://www.gnu.org/licenses/gpl.html

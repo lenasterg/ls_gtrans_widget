@@ -1,14 +1,16 @@
 <?php
-/*
-  Plugin Name: Ls_Gtrans_Widget
-  Plugin URI:
-  Description: Widget with selectbox to Google translation for the current page. Contains more than 25 European languages.
-  Version: 1.0.0
-  Author: Stergatu Lena <stergatu@cti.gr>
-  Author URI: http://lenasterg.wordpress.com
-  License: GPLv3
- */
 
+/**
+ *  Plugin Name: Ls_Gtrans_Widget
+ *  Author: lenasterg, NTS on cti.gr
+ *  Author URI: http://lenasterg.wordpress.com
+ *  Version: 1.0
+ * License:  GNU General Public License 3.0 or newer (GPL) http://www.gnu.org/licenses/gpl.html
+ * Last Updated: July 9, 2015
+ * Description:  Widget with selectbox to Google translation for the current page. Contains more than 25 European languages.
+ *
+ */
+ 
 /*
   This program is free software; you can redistribute it and/or
   modify it under the terms of the GNU General Public License
