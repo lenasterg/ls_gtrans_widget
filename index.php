@@ -1,9 +1,7 @@
 <?php
-
 /**
- *  Plugin Name: Ls_Gtrans_Widget
+ *  Plugin Name: Ls Gtrans Widget
  *  Author: lenasterg, NTS on cti.gr
- *  Author URI: http://lenasterg.wordpress.com
  *  Version: 1.0
  * License:  GNU General Public License 3.0 or newer (GPL) http://www.gnu.org/licenses/gpl.html
  * Last Updated: July 9, 2015
@@ -63,7 +61,7 @@ class Ls_Gtrans_Widget extends WP_Widget {
 		<option value="fr">French</option>
 		<option value="de">German</option>
 		<option value="el">Greek</option>
-			<option value="hu">Hungarian</option>
+		<option value="hu">Hungarian</option>
 		<option value="it">Italian</option>
 		<option value="lv">Lativian</option>
 		<option value="lt">Lithuanian</option>

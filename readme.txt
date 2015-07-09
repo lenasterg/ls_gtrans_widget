@@ -1,14 +1,13 @@
-﻿=== Ls_Gtrans_Widget ===
+﻿=== Ls Gtrans Widget ===
 Contributors: lenasterg, NTS on cti.gr
-Donate link:
 Tags: google translate, widget
-Requires at least:3.6
+Requires at least: 3.6
 Tested up to: 4.2.2
 Stable tag: 1.0
 icense:  GNU General Public License 3.0 or newer (GPL)
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Widget with selectbox to Google translation for the current page. Contains more than 25 European languages.
+Widget with selectbox to Google translation for the current page. The options are more than 25 European languages.
 
 == Description ==
 
@@ -27,7 +26,7 @@ Ready!!!
 
 == Screenshots ==
 
-1. Widget
+1. Widget settings
 2. Widget in frontend
 
 == Changelog ==
