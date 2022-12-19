@@ -1,9 +1,9 @@
 ﻿=== Ls Gtrans Widget ===
-Contributors: lenasterg, NTS on cti.gr
+Contributors: lenasterg, NTS on cti.gr, sch.gr
 Tags: google translate, widget
-Requires at least: 3.6
-Tested up to: 4.2.2
-Stable tag: 1.0
+Requires at least: 4.0
+Tested up to: 6.1.1
+Stable tag: 2.0.1
 License:  GNU General Public License 3.0 or newer (GPL)
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -31,6 +31,22 @@ Ready!!!
 2. Widget in frontend
 
 == Changelog ==
+
+= 2.0.1 =
+* Replace a deprecated function
+
+
+= 2.0 =
+* WP 6.1.1 compatible
+* PHP 8.1+ compatible
+* Fix some coding standards issues
+
+= 1.2 =
+* WP 4.9 compatibility check
+
+= 1.1 =
+* Replace deprecated $this->WP_Widget call
+* Typo fixes
 
 = 1.0 =
 * Initial release.
